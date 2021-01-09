@@ -2,13 +2,6 @@ New installer file uploaded as the
 previous versions were getting 
 flagged as a virus
 
-
-Seems some AV programs flagged the old file as a virus 
-so I have changed the exe to an installer file instead
-
-
-
-
 # P2VFLASH
 P2V FLASH TOOL
 A tool to help with the DOS based side of flashing the Phantom 2 Vision FC200
