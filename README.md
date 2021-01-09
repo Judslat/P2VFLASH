@@ -1,4 +1,7 @@
+New Installer file uploaded 09 January 2021
 
+Seems some AV programs flagged the old file as a virus 
+so I have changed the exe to an installer file instead
 
 
 
