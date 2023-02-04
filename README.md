@@ -1,10 +1,13 @@
 The new V7 tool shows you which com ports are
 currently in use, it will change if you unplug 
 then replug the TTL adapter
-
+***********************************************************
+***********************************************************
 The new version only asks for the com port once and stores
 the value in system environment and then removes it once 
 finished.
+************************************************************
+************************************************************
 
 
 
