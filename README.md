@@ -1,4 +1,4 @@
-The new V7 tool shows you which com ports are
+The new V8 tool shows you which com ports are
 currently in use, it will change if you unplug 
 then replug the TTL adapter
 ***********************************************************
