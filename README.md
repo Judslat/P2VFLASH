@@ -1,3 +1,8 @@
+16/04/2023 
+Updated the wiring picture with new pictures of both boards to make wiring easier to understand
+**************************************************************************************************
+
+
 The new V8 tool shows you which com ports are
 currently in use, it will change if you unplug 
 then replug the TTL adapter
